@@ -5,4 +5,6 @@
 
 - [Ejercicio Base de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Ej1_BaseDatos_4.pdf)
 
+-[Ejercicios Básicos Python](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Python_1802780.ipynb)
+
 - [Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/LimpiezaDatos.ipynb)
