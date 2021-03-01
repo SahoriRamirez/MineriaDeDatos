@@ -7,4 +7,4 @@
 
 - [Ejercicios Básicos Python](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Python_1802780.ipynb)
 
-- [Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/LimpiezaDatos.ipynb)
+- [Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/LimpiezaDatos%20(1).ipynb)
