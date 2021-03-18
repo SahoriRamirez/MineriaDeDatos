@@ -20,8 +20,8 @@ str(Hedonic)
 ols.reg<-lm(tax~.,trainingset)
 summary(ols.reg)
 
-"Hacemos nuestra predicción y compararemos los resultados con el conjunto de prueba utilizando: 
-correlación, estadísticas de resumen y el error absoluto medio"
+"Hacemos nuestra predicciÃ³n y compararemos los resultados con el conjunto de prueba utilizando: 
+correlaciÃ³n, estadÃ­sticas de resumen y el error absoluto medio"
 ols.regTest<-predict.lm(ols.reg,testingset,interval = 'prediction',se.fit = T)
 #correlacion
 cor(testingset$tax,ols.regTest$fit[,1])
@@ -69,7 +69,8 @@ grid.arrange(ols.plot,bayes.plot,ncol=2)
 
 """
 conclusion: 
-El enfoque bayesiano proporciona intervalos de confianza más compactos.
+El enfoque bayesiano proporciona intervalos de confianza mÃ¡s compactos.
  
 reduce la varianza y fortalece la confianza que podemos tener en cada ejemplo individual.
+URL:https://educationalresearchtechniques.com/2017/10/18/linear-regression-vs-bayesian-regression/
 """
