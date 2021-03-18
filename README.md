@@ -10,3 +10,5 @@
 - [Limpieza de Datos](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Limpieza_04.ipynb)
 
 - [Primer Avance del PIA](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Avance1_PIA_04%20.ipynb)
+
+## Fase 2
