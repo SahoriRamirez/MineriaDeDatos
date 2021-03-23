@@ -13,4 +13,4 @@
 
 ## Fase 2
 - [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
-- [Ejemplo de Regresión Bayesiana Lineal en R](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/EJ_REGRESION_LINEAL_BAYESIANA_04.R)
+  - [Ejemplo de Regresión Bayesiana Lineal en R](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/EJ_REGRESION_LINEAL_BAYESIANA_04.R)
