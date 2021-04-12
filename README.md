@@ -11,3 +11,8 @@
 - [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
   - [Ejemplo de Regresión Bayesiana Lineal en R](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/EJ_REGRESION_LINEAL_BAYESIANA_04.R)
   - [Calificaciones Regresión Bayesiana](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Calificaci%C3%B3n_Regresi%C3%B3n%20Bayesiana%20_Equipo04.pdf)
+
+- [Mapa Mental 2] (
+- [2DO AVANCE DEL PIA] (https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
+  - [Práctica de Visualización Principal] (https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
+  - [Práctica de Visualización Secundaria] (https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
