@@ -18,3 +18,6 @@
 - [Visualización del PIA en Plotly](https://chart-studio.plotly.com/~verormz/0)
   - [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
   - [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
+
+## Fase 3
+- [POSTER HOMICIDIOS EUA 1980-2014](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Poster-Homicidios%20EUA(1980-2014).pdf)
