@@ -15,5 +15,6 @@
 - [Mapa Mental II](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Mapa%20Mental_2_1802780.pdf)
 - [SEGUNDO AVANCE DEL PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
 - [SEGUNDO AVANCE DEL PIA CORRECCIÓN](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04CORRECCI%C3%93N.ipynb)
+- [Visualización del PIA en Plotly](https://chart-studio.plotly.com/~verormz/0)
   - [Práctica de Visualización Principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
   - [Práctica de Visualización Secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
